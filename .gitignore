@@ -1,2 +1,9 @@
 # ignore files ending .log
 *.log
+
+# ignore p4merge temporary merge files
+*.orig
+*_BACKUP_*
+*_BASE_*
+*_LOCAL_*
+*_REMOTE_*
